@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Perugia University", url = "www.ec.unipg.it" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "le.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "luca.elisei1@gmail.com"
   address = "Building 1 Room 1, Perugia University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
