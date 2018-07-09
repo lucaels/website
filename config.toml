@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "//https:lucaels.com/"
+baseurl = "https://github.com/lucaels/website.git/"
 
 # Title of your site
 title = "Luca Elisei"
@@ -65,13 +65,13 @@ enableGitInfo = false
   organizations = [ { name = "Perugia University", url = "www.ec.unipg.it" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "le.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "luca.elisei1@gmail.com"
   address = "Building 1 Room 1, Perugia University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  phone = "388 3272796"
+  skype = "luca.elisei1"
+  #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
