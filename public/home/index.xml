@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Luca Elisei</title>
-    <link>https://github.com/lucaels/website.git/home/</link>
+    <link>/lucaels/website.git/home/</link>
     <description>Recent content in Homes on Luca Elisei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://github.com/lucaels/website.git/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/lucaels/website.git/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://github.com/lucaels/website.git/home/about/</link>
+      <link>/lucaels/website.git/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://github.com/lucaels/website.git/home/about/</guid>
+      <guid>/lucaels/website.git/home/about/</guid>
       <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://github.com/lucaels/website.git/home/publications_selected/</link>
+      <link>/lucaels/website.git/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://github.com/lucaels/website.git/home/publications_selected/</guid>
+      <guid>/lucaels/website.git/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://github.com/lucaels/website.git/home/publications/</link>
+      <link>/lucaels/website.git/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://github.com/lucaels/website.git/home/publications/</guid>
+      <guid>/lucaels/website.git/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://github.com/lucaels/website.git/home/talks/</link>
+      <link>/lucaels/website.git/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://github.com/lucaels/website.git/home/talks/</guid>
+      <guid>/lucaels/website.git/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://github.com/lucaels/website.git/home/posts/</link>
+      <link>/lucaels/website.git/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://github.com/lucaels/website.git/home/posts/</guid>
+      <guid>/lucaels/website.git/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://github.com/lucaels/website.git/home/projects/</link>
+      <link>/lucaels/website.git/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://github.com/lucaels/website.git/home/projects/</guid>
+      <guid>/lucaels/website.git/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://github.com/lucaels/website.git/home/teaching/</link>
+      <link>/lucaels/website.git/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://github.com/lucaels/website.git/home/teaching/</guid>
+      <guid>/lucaels/website.git/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
@@ -80,19 +80,19 @@ I am a teaching instructor for the following courses at University X:
     
     <item>
       <title>Tags</title>
-      <link>https://github.com/lucaels/website.git/home/tags/</link>
+      <link>/lucaels/website.git/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://github.com/lucaels/website.git/home/tags/</guid>
+      <guid>/lucaels/website.git/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://github.com/lucaels/website.git/home/contact/</link>
+      <link>/lucaels/website.git/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://github.com/lucaels/website.git/home/contact/</guid>
+      <guid>/lucaels/website.git/home/contact/</guid>
       <description></description>
     </item>
     
