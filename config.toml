@@ -55,6 +55,7 @@ enableGitInfo = false
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "playfair"
+  font_size_small = "12"
 
   # Your details.
   name = "Luca Elisei"
@@ -130,7 +131,7 @@ enableGitInfo = false
   #     override it for a particular page in that page's preamble.
   #
   #     Example: highlight = true
-  #
+  highlight = true
   #   highlight_languages
   #     Add support for highlighting additional languages. Support for
   #     languages mentioned here will be included in all pages. You
@@ -138,7 +139,7 @@ enableGitInfo = false
   #     page's preamble.
   #
   #     Example: highlight_languages = ["go", "lisp", "ocaml"]
-  #
+  highlight_font_size_small = ["16"]
   #   highlight_style
   #     Choose a different CSS style for highlighting source
   #     code. Setting this option in a page's preamble has no
