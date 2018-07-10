@@ -55,7 +55,7 @@ enableGitInfo = false
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "playfair"
-  font_size_small = "12"
+  font_size_small = "10"
 
   # Your details.
   name = "Luca Elisei"
